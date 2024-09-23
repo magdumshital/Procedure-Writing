@@ -14,27 +14,25 @@
 
 ### 2. Insert your ATM/Debit/Credit card into the ATM.
 - *Note:* Ensure that the card orientation is correct, as indicated on the ATM screen and card.
-![Insert Card](![image](https://github.com/user-attachments/assets/5e9e06b1-4207-424a-950e-2cbf24e177d4)
-)
+![Insert Card](https://raw.githubusercontent.com/magdumshital/Procedure-Writing/refs/heads/main/Step%202.JPG)
 
 ### 3. Enter your PIN.
-![Enter PIN](Step 3.JPG)
+![Enter PIN](https://raw.githubusercontent.com/magdumshital/Procedure-Writing/refs/heads/main/Step%203.JPG)
 
 ### 4. Select the “Withdrawal” option from the menu.
-![Select Withdrawal]step 4.JPG)
+![Select Withdrawal](https://raw.githubusercontent.com/magdumshital/Procedure-Writing/refs/heads/main/step%204.JPG)
 
 ### 5. Select your account type.
-![Select Account Type](step 5.JPG)
+![Select Account Type](https://raw.githubusercontent.com/magdumshital/Procedure-Writing/refs/heads/main/step%205.JPG)
 
 ### 6. Enter the amount of money you wish to withdraw.
-![Enter Amount](step 6.JPG)
+![Enter Amount](https://raw.githubusercontent.com/magdumshital/Procedure-Writing/refs/heads/main/step%206.JPG)
 
 ### 7. Verify and confirm the transaction details.
 
 ### 8. Collect Cash and Receipt.
 
 ### 9. Retrieve your ATM/Debit/Credit card.
-
 
 ### 10. End Session.
 
