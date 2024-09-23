@@ -14,7 +14,8 @@
 
 ### 2. Insert your ATM/Debit/Credit card into the ATM.
 - *Note:* Ensure that the card orientation is correct, as indicated on the ATM screen and card.
-![Insert Card](Step 2.JPG)
+![Insert Card](![image](https://github.com/user-attachments/assets/5e9e06b1-4207-424a-950e-2cbf24e177d4)
+)
 
 ### 3. Enter your PIN.
 ![Enter PIN](Step 3.JPG)
